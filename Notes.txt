@@ -1,0 +1,6 @@
+sekancios uzduotys:
+
+-pakeisti srifta
+-spalvos
+-limituoti teksto ploti
+-fonas (spalva)

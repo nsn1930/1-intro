@@ -2,5 +2,7 @@ sekancios uzduotys:
 
 -pakeisti srifta
 -spalvos
--limituoti teksto ploti
+-limituoti teksto ploti (norij, jog butu puse ekrano plocio)
 -fonas (spalva)
+
+-paviesinti koda
